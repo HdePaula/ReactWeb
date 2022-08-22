@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    color: aliceblue;
+}
+
+.Header {
+    height: 52px;
+    background-color: #6154ff;
+    display: flex;
+}
+
+.Header_logo {
+    width: 20%;
+    font-size: 35px;
+    margin-left: 8px;
+}
+
+.Header_menu {
+    width: 80%;
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.Header_menu a {
+    padding: 10px 8px 10px 8px;
+    text-decoration: none;
+    /*background-color: red;*/
+}
+
+.Header_menu a:hover{
+    text-decoration: underline;
+    /*background-color: aqua;*/
+}
