@@ -3,15 +3,15 @@ import './Header.css';
 function Header() {
   return (
     <div className="Header">
-        <div className='Header_logo'>
+        <div className='headerLogo'>
             <p>Maker</p>
         </div>
 
-        <div className='Header_menu'>
-            <a href=''>Home</a>
-            <a href=''>Impressão 3D</a>
-            <a href=''>Oficina</a>
-            <a href=''>Programação</a>
+        <div className='headerMenu'>
+            <a href='https://www.youtube.com/'>Home</a>
+            <a href='https://www.youtube.com/'>Impressão 3D</a>
+            <a href='https://www.youtube.com/'>Oficina</a>
+            <a href='https://www.youtube.com/'>Programação</a>
         </div>
     </div>
   );

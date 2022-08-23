@@ -10,28 +10,27 @@
     height: 52px;
     background-color: #6154ff;
     display: flex;
+    justify-content: space-between;
 }
 
-.Header_logo {
-    width: 20%;
+.headerLogo {
     font-size: 35px;
     margin-left: 8px;
 }
 
-.Header_menu {
-    width: 80%;
+.headerMenu {
     text-align: right;
     margin-right: 10px;
     margin-top: 15px;
 }
 
-.Header_menu a {
+.headerMenu a {
     padding: 10px 8px 10px 8px;
     text-decoration: none;
     /*background-color: red;*/
 }
 
-.Header_menu a:hover{
+.headerMenu a:hover{
     text-decoration: underline;
     /*background-color: aqua;*/
 }
