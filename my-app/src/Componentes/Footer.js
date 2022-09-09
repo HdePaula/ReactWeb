@@ -6,7 +6,7 @@ export default function Footer(props) {
     <section className='Footer'>
       <div className='Texto'>
         <p>
-          Este é um site onde estou desenvolvento para desenvolver meus conhecimentos 
+          Este é um site o qual estou desenvolvento para melhorar meus conhecimentos 
           em desenvolvento Web.
           <br/>
           Estou utilizando React.js.
